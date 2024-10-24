@@ -1,6 +1,3 @@
-
-Aqui está um exemplo de um README simples com alguns emojis para um repositório de uma API de cadastro de usuário em ASP.NET e C#:
-
 🚀 API de Cadastro de Usuário - ASP.NET & C#
 Bem-vindo ao repositório da API de Cadastro de Usuário! 🎉 Aqui você encontrará uma API RESTful desenvolvida com ASP.NET Core e C# para realizar o cadastro de usuários.
 
@@ -38,6 +35,13 @@ Execute o projeto:
 bash
 Copiar código
 dotnet run
+
+🛠️ Endpoints
+POST /api/usuarios - Cadastra um novo usuário.
+GET /api/usuarios - Lista todos os usuários.
+GET /api/usuarios/{id} - Retorna um usuário pelo ID.
+PUT /api/usuarios/{id} - Atualiza um usuário.
+DELETE /api/usuarios/{id} - Exclui um usuário.
 
 📜 Licença
 Este projeto está sob a licença MIT. Sinta-se à vontade para usá-lo e modificá-lo! 😊
