@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "abyN4oxXzL4wGZFhD67Ab0K9LsX9yaxbImmGhGxSO/8=",
+  "Source": "Server.Facul.API",
+  "BasePath": "_content/Server.Facul.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
